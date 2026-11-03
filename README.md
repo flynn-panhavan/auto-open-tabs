@@ -23,4 +23,4 @@
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/flynn-git/AutoOpenTabs.git
+  git clone https://github.com/flynn-git/auto-open-tabs.git
